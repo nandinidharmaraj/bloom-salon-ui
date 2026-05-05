@@ -16,9 +16,14 @@ const createWhatsAppLink = (details = {}) => {
 };
 
 const Header = () => {
+  const handleLogoClick = (e) => {
+    e.preventDefault();
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  };
+
   return (
     <header className="site-header">
-      <a className="brand" href="#top" aria-label="Bloom Salon homepage">
+      <a className="brand" href="#top" onClick={handleLogoClick} aria-label="Bloom Salon homepage">
         <img className="brand-mark" src={bloomLogo} alt="Bloom Salon logo" />
         <span className="brand-copy">
           <strong>Bloom Salon</strong>
