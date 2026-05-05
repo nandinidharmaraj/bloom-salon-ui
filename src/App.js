@@ -17,8 +17,7 @@ function App() {
         <Hero />
         <Highlights />
         <section className="section-heading" id="photos">
-          <p className="eyebrow">Photos</p>
-          <h2>A salon gallery layout ready for real Bloom photos</h2>
+        
         </section>
         <Gallery />
         <BookingSection />

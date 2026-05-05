@@ -10,24 +10,21 @@ const About = () => {
 
       <div className="about-grid">
         <article>
-          <h3>Polished Branding</h3>
+          <h3>Premium Hair Care</h3>
           <p>
-            The design direction uses cream, botanical green, and soft gold
-            for a premium but approachable salon identity.
+            At Bloom Salon, we specialize in precision cuts, color treatments, and styling services. Our expert stylists are trained in the latest techniques to give you the look you deserve with personalized attention.
           </p>
         </article>
         <article>
-          <h3>Clear Navigation</h3>
+          <h3>Beauty & Wellness</h3>
           <p>
-            Visitors can immediately find the photo section, booking area,
-            about section, and contact details from the header.
+            From skin care to makeup services, we offer comprehensive beauty solutions in a relaxing spa-like atmosphere. Experience our holistic approach to beauty and self-care with premium products and professional expertise.
           </p>
         </article>
         <article>
-          <h3>Ready For Next Steps</h3>
+          <h3>Unisex Grooming</h3>
           <p>
-            The structure is ready for real service pricing, exact salon
-            images, reviews, and the final Instagram profile link.
+            Whether you're looking for a fresh haircut, beard grooming, or styling advice, our welcoming salon serves everyone. We believe great grooming is for all, and we're dedicated to making you feel confident and refreshed.
           </p>
         </article>
       </div>
