@@ -22,7 +22,7 @@ const Header = () => {
         <img className="brand-mark" src={bloomLogo} alt="Bloom Salon logo" />
         <span className="brand-copy">
           <strong>Bloom Salon</strong>
-          <small>Bagalgunte | Unisex Salon</small>
+          <small>Unisex Salon</small>
         </span>
       </a>
 

@@ -20,11 +20,8 @@ const Hero = () => {
   return (
     <section className="hero">
       <div className="hero-copy">
-        <p className="eyebrow">Bloom Salon Bagalgunte</p>
-        <div className="hero-logo-row">
-          <img className="hero-logo" src={bloomLogo} alt="Bloom Salon logo" />
-          <span>Unisex Salon</span>
-        </div>
+        <p className="eyebrow">Bloom Salon</p>
+
         <h1>Beauty, hair, and grooming in a calm salon setting.</h1>
 
         <div className="hero-actions">
@@ -52,6 +49,7 @@ const Hero = () => {
             <dd>Bagalgunte, Bengaluru</dd>
           </div>
           <div>
+            
             <dt>Services</dt>
             <dd>Hair, skin care, beauty, and grooming</dd>
           </div>
