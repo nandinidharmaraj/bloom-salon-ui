@@ -39,8 +39,9 @@ const Footer = () => {
       </div>
 
       <div className="footer-copy">
-        <p>Preview site | {year}</p>
-        <p>First homepage concept for Bloom Salon</p>
+        <p>
+          ©  {BUSINESS_NAME} — Professional hair, beauty and grooming services.
+        </p>
       </div>
     </footer>
   );
