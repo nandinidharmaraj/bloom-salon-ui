@@ -1,6 +1,6 @@
 import React from "react";
 import bloomLogo from "../assets/bloom-logo-official.png";
-import { BUSINESS_NAME, BUSINESS_PHONE_E164, INSTAGRAM_URL } from "../constants";
+import { BUSINESS_NAME, BUSINESS_PHONE_E164 } from "../constants";
 
 const createWhatsAppLink = (details = {}) => {
   const lines = [

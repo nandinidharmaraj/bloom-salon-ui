@@ -244,7 +244,7 @@ textarea {
 
 .button-primary {
   color: #fffaf2;
-  background: var(--deep-green);
+  background: linear-gradient(135deg, var(--berry), #8a1c4a);
 }
 
 .button-secondary {
