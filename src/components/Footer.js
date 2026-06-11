@@ -40,7 +40,7 @@ const Footer = () => {
 
       <div className="footer-copy">
         <p>
-          ©  {BUSINESS_NAME} — Professional hair, beauty and grooming services.
+          © {year} {BUSINESS_NAME} — Professional hair, beauty and grooming services.
         </p>
       </div>
     </footer>
